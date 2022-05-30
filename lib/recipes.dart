@@ -38,7 +38,7 @@ class _RecipesListScreenState extends State<RecipesListScreen> {
         trailing: Container(
           width: 24,
           alignment: Alignment.center,
-          child: Icon(
+          child: const Icon(
             Icons.keyboard_arrow_right,
             size: 30,
           ),
